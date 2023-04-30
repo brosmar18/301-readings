@@ -13,3 +13,5 @@
 [Class-07-reading](/assignments/class-07.md)
 
 [Class-08-reading](/assignments/class-08.md)
+
+[Class-09-reading](/assignments/class-09.md)
