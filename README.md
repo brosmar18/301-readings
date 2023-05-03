@@ -17,3 +17,9 @@
 [Class-09-reading](/assignments/class-09.md)
 
 [Class-10-reading](/assignments/class-10.md)
+
+[Class-11-reading](/assignments/class-11.md)
+
+[Class-12-reading](/assignments/class-12.md)
+
+[Class-13-reading](/assignments/class-13.md)
