@@ -23,3 +23,7 @@
 [Class-12-reading](/assignments/class-12.md)
 
 [Class-13-reading](/assignments/class-13.md)
+
+[Class-14-reading](/assignments/class-14.md)
+
+[Class-15-reading](/assignments/class-15.md)
